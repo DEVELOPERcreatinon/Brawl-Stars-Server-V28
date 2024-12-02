@@ -1,0 +1,30 @@
+ruehits
+||sistacafe.com/scripts/yengo
+||srf.ais.co.th
+||thaiza.com/nodo.html
+||viu.com/ott/*/tracking/*
+||wp.com/media.go2*.*/*
+||ws-adv.ais.co.th
+! Serie
+seriesubthai.co###adotai-survey-frame-container
+seriesubthai.co###adspc_tags
+seriesubthai.co###taboola
+utaseries.com##[data-wpel-link^="external"]
+hereseries.com##.naqw-type-custom_code.naqw-container
+hereseries.com##.ai_widget.widget.primary-sidebar-widget.w-t.h-ni
+hereseries.com##.code-block-1.code-block
+hereseries.com###ads_fox_bottom
+hereseries.com##.code-block-2.code-block
+newseries-hd.com##.popup.adt
+newseries-hd.com##div.adcen:nth-of-type(6)
+! Sport
+baanpolballs.com###ads
+baanpolballs.com###clip-banner
+baanpolballs.com###mainarea > .ads_forum
+baanpolballs.com###mid-banner
+baanpolballs.com###sidebar-right
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(3)
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(4)
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(5)
+baanpolballs.com###top-banner
+baanpolballs.com###webboard >

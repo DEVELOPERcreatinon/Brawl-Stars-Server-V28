@@ -1,0 +1,85 @@
+"Low" translation="Basso" />
+      <value name="Normal" translation="Normale" />
+      <value name="Standard" translation="Standard" />
+    </setting>
+    <setting name="Resolution" translation="Risoluzione" />
+  </language>
+  <language name="ja_JP" translation="">
+    <setting name="Anti-aliasing" translation="アンチエイリアシング">
+      <value name="High" translation="高" />
+      <value name="Low" translation="低" />
+      <value name="Standard" translation="スタンダード" />
+    </setting>
+    <setting name="Display Mode" translation="ディスプレイ モード">
+      <value name="Full-screen" translation="フルスクリーン" />
+      <value name="Full-screen Borderless" translation="フル スクリーン ボーダーなし" />
+      <value name="Windowed" translation="ウィンドウ表示" />
+    </setting>
+    <setting name="Graphic Quality" translation="グラフィックのクオリティ">
+      <value name="Low" translation="低" />
+      <value name="Normal" translation="ノーマル" />
+      <value name="Standard" translation="スタンダード" />
+    </setting>
+    <setting name="Resolution" translation="解像度" />
+  </language>
+  <language name="ko_KR" translation="">
+    <setting name="Anti-aliasing" translation="앤티엘리어싱">
+      <value name="High" translation="높음" />
+      <value name="Low" translation="낮음" />
+      <value name="Standard" translation="표준" />
+    </setting>
+    <setting name="Display Mode" translation="디스플레이 모드">
+      <value name="Full-screen" translation="전체 화면" />
+      <value name="Full-screen Borderless" translation="전체 화면 테두리 없음" />
+      <value name="Windowed" translation="창" />
+    </setting>
+    <setting name="Graphic Quality" translation="그래픽 품질">
+      <value name="Low" translation="낮음" />
+      <value name="Normal" translation="일반" />
+      <value name="Standard" translation="표준" />
+    </setting>
+    <setting name="Resolution" translation="해상도" />
+  </language>
+  <language name="nb_NO" translation="">
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="High" translation="Høy" />
+      <value name="Low" translation="Lav" />
+      <value name="Standard" translation="Standard" />
+    </setting>
+    <setting name="Display Mode" translation="Skjermmodus">
+      <value name="Full-screen" translation="Full skjerm" />
+      <value name="Full-screen Borderless" translation="Fullskjerm rammeløs" />
+      <value name="Windowed" translation="Vindusmodus" />
+    </setting>
+    <setting name="Graphic Quality" translation="Grafikkvalitet">
+      <value name="Low" translation="Lav" />
+      <value name="Normal" translation="Normal" />
+      <value name="Standard" translation="Standard" />
+    </setting>
+    <setting name="Resolution" translation="Oppløsning" />
+  </language>
+  <language name="nl_NL" translation="">
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Standard" translation="Standaard" />
+    </setting>
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+      <value name="Full-screen Borderless" translation="Volledig scherm randloos" />
+      <value name="Windowed" translation="In venster" />
+    </setting>
+    <setting name="Graphic Quality" translation="Grafische kwaliteit">
+      <value name="Low" translation="Laag" />
+      <value name="Normal" translation="Normaal" />
+      <value name="Standard" translation="Standaard" />
+    </setting>
+    <setting name="Resolution" translation="Resolutie" />
+  </language>
+  <language name="pl_PL" translation="">
+    <setting name="Anti-aliasing" translation="Wygładzanie krawędzi">
+      <value name="High" translation="Wysokie" />
+      <value name="Low" translation="Niskie" />
+      <value name="Standard" translation="Standardowe" />
+    </setting>
+    <setting name="Display Mode" translation="Tr

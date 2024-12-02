@@ -1,0 +1,63 @@
+",
+				"name": "Blokowanie reklam"
+			},
+			"pt": {
+				"description": "Projectado para bloquear publicidade online",
+				"name": "Bloqueio de publicidade"
+			},
+			"pt_BR": {
+				"description": "Projetado para bloquear anúncios",
+				"name": "Bloqueio de Anúncios"
+			},
+			"pt_PT": {
+				"description": "Projectado para bloquear publicidade online",
+				"name": "Bloqueio de publicidade"
+			},
+			"ro": {
+				"description": "Creat pentru a bloca reclame online",
+				"name": "Blocare reclame"
+			},
+			"ru": {
+				"description": "Создан для блокировки интернет-рекламы",
+				"name": "Блокировка рекламы"
+			},
+			"sk": {
+				"description": "Navrhnuté na blokovanie online reklám",
+				"name": "Blokovanie reklám"
+			},
+			"sl": {
+				"description": "Zasnovan za zaviranje spletnih oglasov",
+				"name": "Zaviranje oglasov"
+			},
+			"sr": {
+				"description": "Izrađen da blokira reklame na mreži",
+				"name": "Blokiranje reklama"
+			},
+			"sv": {
+				"description": "Blockerar onlineannonser",
+				"name": "Annonsblockering"
+			},
+			"tr": {
+				"description": "Çevrimiçi reklamları engellemek için tasarlandı",
+				"name": "Reklam Engelleme"
+			},
+			"uk": {
+				"description": "Створений для блокування реклами",
+				"name": "Блокування реклами"
+			},
+			"vi": {
+				"description": "Được thiết kế để chặn quảng cáo trực tuyến",
+				"name": "Chặn quảng cáo"
+			},
+			"zh": {
+				"description": "旨在阻止在线广告",
+				"name": "广告拦截"
+			},
+			"zh_TW": {
+				"description": "旨在封鎖線上廣告",
+				"name": "廣告封鎖"
+			}
+		},
+		"2": {
+			"ar": {
+				"description": "مصممة لحماية خصوصيتك على الانترنت
