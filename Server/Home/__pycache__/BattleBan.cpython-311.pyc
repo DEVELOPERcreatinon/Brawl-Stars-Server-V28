@@ -1,0 +1,24 @@
+
+      <value name="Medium" translation="Middels" />
+    </setting>
+    <setting name="Resolution" translation="Oppløsning" />
+  </language>
+  <language name="nl_NL" translation="">
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+    </setting>
+    <setting name="MSAA Options" translation="MSAA-opties">
+      <value name="2x" translation="2x" />
+      <value name="4x" translation="4x" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-Aliasing">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Rendering Quality" translation="Renderingkwaliteit">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Medium" translation="Gemiddeld" />
+    </setting>
+    <set

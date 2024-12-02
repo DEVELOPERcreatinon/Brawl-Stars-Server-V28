@@ -1,0 +1,137 @@
+     <value name="FXAA(High)" translation="FXAA (Alto)" />
+      <value name="FXAA(Medium)" translation="FXAA (Medio)" />
+      <value name="Off" translation="Disattivato" />
+    </setting>
+    <setting name="Resolution" translation="Risoluzione" />
+    <setting name="Texture Detail" translation="Dettagli texture">
+      <value name="High Image Quality" translation="Qualità immagine elevata" />
+      <value name="Highest Image Quality" translation="Qualità immagine massima" />
+      <value name="Normal Image Quality" translation="Qualità immagine normale" />
+    </setting>
+  </language>
+  <language name="ja_JP" translation="">
+    <setting name="Display Mode" translation="ディスプレイ モード">
+      <value name="Full-screen" translation="フルスクリーン" />
+      <value name="Windowed" translation="ウィンドウ表示" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA（高）" />
+      <value name="FXAA(Medium)" translation="FXAA（中）" />
+      <value name="Off" translation="オフ" />
+    </setting>
+    <setting name="Resolution" translation="解像度" />
+    <setting name="Texture Detail" translation="テクスチャのディテール">
+      <value name="High Image Quality" translation="高画質" />
+      <value name="Highest Image Quality" translation="最高画質" />
+      <value name="Normal Image Quality" translation="標準画質" />
+    </setting>
+  </language>
+  <language name="ko_KR" translation="광명사명">
+    <setting name="Display Mode" translation="디스플레이 모드">
+      <value name="Full-screen" translation="전체 화면" />
+      <value name="Windowed" translation="창" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA(높음)" />
+      <value name="FXAA(Medium)" translation="FXAA(보통)" />
+      <value name="Off" translation="끄기" />
+    </setting>
+    <setting name="Resolution" translation="해상도" />
+    <setting name="Texture Detail" translation="텍스처 디테일">
+      <value name="High Image Quality" translation="고화질" />
+      <value name="Highest Image Quality" translation="최고화질" />
+      <value name="Normal Image Quality" translation="일반 화질" />
+    </setting>
+  </language>
+  <language name="nb_NO" translation="">
+    <setting name="Display Mode" translation="Skjermmodus">
+      <value name="Full-screen" translation="Full skjerm" />
+      <value name="Windowed" translation="Vindusmodus" />
+    </setting>
+    <setting name="FXAA" translation="Skyggebasert anti-aliasing">
+      <value name="FXAA(High)" translation="FXAA (høy)" />
+      <value name="FXAA(Medium)" translation="FXAA(middels)" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Resolution" translation="Oppløsning" />
+    <setting name="Texture Detail" translation="Teksturdetaljer">
+      <value name="High Image Quality" translation="Høy bildekvalitet" />
+      <value name="Highest Image Quality" translation="Høyeste bildekvalitet" />
+      <value name="Normal Image Quality" translation="Normal bildekvalitet" />
+    </setting>
+  </language>
+  <language name="nl_NL" translation="">
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+      <value name="Windowed" translation="In venster" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA (hoog)" />
+      <value name="FXAA(Medium)" translation="FXAA (medium)" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="Resolution" translation="Resolutie" />
+    <setting name="Texture Detail" translation="Patroondetail">
+      <value name="High Image Quality" translation="Hoge beeldkwaliteit" />
+      <value name="Highest Image Quality" translation="Hoogste beeldkwaliteit" />
+      <value name="Normal Image Quality" translation="Normale beeldkwaliteit" />
+    </setting>
+  </language>
+  <language name="pl_PL" translation="">
+    <setting name="Display Mode" translation="Tryb wyświetlania">
+      <value name="Full-screen" translation="Pełny ekran" />
+      <value name="Windowed" translation="Okienkowy" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA (wysokie)" />
+      <value name="FXAA(Medium)" translation="FXAA (średnie)" />
+      <value name="Off" translation="Wyłącz" />
+    </setting>
+    <setting name="Resolution" translation="Rozdzielczość" />
+    <setting name="Texture Detail" translation="Szczegółowość tekstur">
+      <value name="High Image Quality" translation="Wysoka jakość obrazu" />
+      <value name="Highest Image Quality" translation="Najwyższa jakość obrazu" />
+      <value name="Normal Image Quality" translation="Normalna jakość obrazu" />
+    </setting>
+  </language>
+  <language name="pt_BR" translation="">
+    <setting name="Display Mode" translation="Modo de video">
+      <value name="Full-screen" translation="Tela inteira" />
+      <value name="Windowed" translation="Em Janelas" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA (Alto)" />
+      <value name="FXAA(Medium)" translation="FXAA (Médio)" />
+      <value name="Off" translation="Desligado" />
+    </setting>
+    <setting name="Resolution" translation="Resolução" />
+    <setting name="Texture Detail" translation="Detalhe da Textura">
+      <value name="High Image Quality" translation="Imagem de qualidade superior" />
+      <value name="Highest Image Quality" translation="Imagem da mais alta qualidade" />
+      <value name="Normal Image Quality" translation="Imagem de qualidade normal" />
+    </setting>
+  </language>
+  <language name="pt_PT" translation="">
+    <setting name="Display Mode" translation="Modo de visualização">
+      <value name="Full-screen" translation="Ecrã inteiro" />
+      <value name="Windowed" translation="Modo de janela" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="FXAA(High)" translation="FXAA (Alta)" />
+      <value name="FXAA(Medium)" translation="FXAA(Média)" />
+      <value name="Off" translation="Desactivar" />
+    </setting>
+    <setting name="Resolution" translation="Resolução" />
+    <setting name="Texture Detail" translation="Detalhe das texturas">
+      <value name="High Image Quality" translation="Qualidade de imagem alta" />
+      <value name="Highest Image Quality" translation="Qualidade de imagem mais alta" />
+      <value name="Normal Image Quality" translation="Qualidade de imagem normal" />
+    </setting>
+  </language>
+  <language name="ru_RU" translation="">
+    <setting name="Display Mode" translation="Экранный режим">
+      <value name="Full-screen" translation="Полный экран" />
+      <value name="Windowed" translation="В окне" />
+    </setting>
+    <setting name="FXAA" translation="Сглаживание при пост-обработке">
+      <value name="FXAA(High)" 

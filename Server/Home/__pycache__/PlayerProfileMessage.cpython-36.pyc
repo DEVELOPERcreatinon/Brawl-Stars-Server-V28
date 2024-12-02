@@ -1,0 +1,48 @@
+ Quality" translation="Qualidade das texturas">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="Média" />
+    </setting>
+  </language>
+  <language name="ru_RU" translation="">
+    <setting name="Display Mode" translation="Экранный режим">
+      <value name="Full-screen" translation="Полный экран" />
+      <value name="Windowed" translation="В окне" />
+    </setting>
+    <setting name="Resolution" translation="Разрешение" />
+    <setting name="Shadow Quality" translation="Качество теней">
+      <value name="High" translation="Высокое" />
+      <value name="Low" translation="Низкое" />
+      <value name="Medium" translation="Среднее" />
+    </setting>
+    <setting name="Texture Quality" translation="Качество текстуры">
+      <value name="High" translation="Высокое" />
+      <value name="Low" translation="Низкое" />
+      <value name="Medium" translation="Среднее" />
+    </setting>
+  </language>
+  <language name="sk_SK" translation="">
+    <setting name="Display Mode" translation="Režim zobrazenia">
+      <value name="Full-screen" translation="Na celú obrazovku" />
+      <value name="Windowed" translation="V okne" />
+    </setting>
+    <setting name="Resolution" translation="Rozlíšenie" />
+    <setting name="Shadow Quality" translation="Kvalita tieňa">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízka" />
+      <value name="Medium" translation="Stredná" />
+    </setting>
+    <setting name="Texture Quality" translation="Kvalita textúry">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízka" />
+      <value name="Medium" translation="Stredná" />
+    </setting>
+  </language>
+  <language name="sl_SI" translation="">
+    <setting name="Display Mode" translation="Zaslonski način">
+      <value name="Full-screen" translation="Celoten zaslon" />
+      <value name="Windowed" translation="V oknu" />
+    </setting>
+    <setting name="Resolution" translation="Ločljivost" />
+    <setting name="Shadow Quality" translation="Kakovost sence">
+      <value name="High" tran

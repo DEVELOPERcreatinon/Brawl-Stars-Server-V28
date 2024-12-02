@@ -1,0 +1,16 @@
+="Off" translation="Ki" />
+      <value name="On" translation="Be" />
+    </setting>
+    <setting name="Rendering Quality" translation="Megjelenítés minősége">
+      <value name="High" translation="Magas" />
+      <value name="Low" translation="Alacsony" />
+      <value name="Medium" translation="Közepes" />
+    </setting>
+    <setting name="Resolution" translation="Felbontás" />
+  </language>
+  <language name="it_IT" translation="">
+    <setting name="Display Mode" translation="Modalità di visualizzazione">
+      <value name="Full-screen" translation="Schermo intero" />
+    </setting>
+    <setting name="MSAA Options" translation="Opzioni MSAA">
+      <value name="2x"
