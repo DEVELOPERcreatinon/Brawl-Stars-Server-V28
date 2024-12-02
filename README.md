@@ -1,5 +1,5 @@
 # Brawl-Server
-Private server Brawl server V28
+Private server Brawl Stars V28
 ## Needs:
 `Python`, <br>
 a `brain...`
