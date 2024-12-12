@@ -1,1 +1,40 @@
-8,"action":{"type":"block"},"condition":{"urlFilter":"||fullspeeddownload.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":16937,"action":{"type":"block"},"condition":{"urlFilter":"||iafov.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":16984,"action":{"type":"block"},"condition":{"urlFilter":"||ir-dl.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":17031,"action":{"type":"block"},"condition":{"urlFilter":"||kimia.es^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":17128,"action":{"type":"block"},"condition":{"urlFilter":"||mobna.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":17175,"action":{"type":"block"},"condition":{"urlFilter":"||newpoptab.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":17226,"action":{"type":"block"},"condition":{"urlFilter":"||newtab-tv.com^","domainType":"thirdParty","resourceTypes":["main_frame"]},"priority":2},{"id":17277,"action":{"type":"block"},"condition":{"urlFilter":"||nozzorli.com^","domainType":"thirdParty","resourceTypes":["main_frame"]
+from Utils.Writer import Writer
+from database.DataBase import DataBase
+
+class TopGlobalClubsDataMessage(Writer):
+
+    def __init__(self, client, player, type):
+        super().__init__(client)
+        self.id = 24403
+        self.player = player
+        self.type = type
+
+    def encode(self):
+        self.writeVint(2)
+        self.writeVint(0)
+        self.writeVint(0)
+        self.writeString()
+        x=1
+        DataBase.LeaderClub(self)
+        self.writeVint(self.AllianceCount) # Players Count
+        for i in self.club_list:
+            DataBase.loadClub(self, i)
+            self.writeVint(0) # Club High ID
+            self.writeVint(i) # Club Low ID
+
+            self.writeVint(1)
+            self.writeVint(self.clubtrophies) # Club Trophies
+            self.writeVint(2)
+
+            self.writeString(self.clubName) # Club Name
+            self.writeVint(self.clubmembercount) # Club Members Count
+
+            self.writeVint(8) # Club Badge
+            self.writeVint(self.clubbadgeID) # Club Name Color
+            x += 1
+
+        self.writeVint(0)
+        self.writeVint(x) # Index of the club
+        self.writeVint(0)
+        self.writeVint(0)
+        self.writeString("BY")
