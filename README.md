@@ -7,6 +7,7 @@ Private server Brawl Stars V28
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Brawl Stars](https://img.shields.io/badge/Brawl%20Stars-V28-red.svg)
 ![Downloads](https://img.shields.io/github/downloads/DEVELOPERcreatinon/Brawl-Stars-Server-V28/total)
+![Last Commit](https://img.shields.io/github/last-commit/DEVELOPERcreatinon/Brawl-Stars-Server-V28)
 
 ## Needs:
 `Linux` or `Windows`, <br>
