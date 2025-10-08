@@ -2,7 +2,6 @@
 Private server Brawl Stars V28
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![Version](https://img.shields.io/badge/Version-V28-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
